@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IKProjesi\\IKProjesi.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB09590D-5A07-4B88-9878-61D79725EE3A}|IKProjesi.API.csproj|d:\\ikprojesi\\ikprojesi.api\\models\\calisansifre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB09590D-5A07-4B88-9878-61D79725EE3A}|IKProjesi.API.csproj|solutionrelative:models\\calisansifre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB09590D-5A07-4B88-9878-61D79725EE3A}|IKProjesi.API.csproj|d:\\ikprojesi\\ikprojesi.api\\models\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB09590D-5A07-4B88-9878-61D79725EE3A}|IKProjesi.API.csproj|solutionrelative:models\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB09590D-5A07-4B88-9878-61D79725EE3A}|IKProjesi.API.csproj|d:\\ikprojesi\\ikprojesi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB09590D-5A07-4B88-9878-61D79725EE3A}|IKProjesi.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB09590D-5A07-4B88-9878-61D79725EE3A}|IKProjesi.API.csproj|d:\\ikprojesi\\ikprojesi.api\\controllers\\calisancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB09590D-5A07-4B88-9878-61D79725EE3A}|IKProjesi.API.csproj|solutionrelative:controllers\\calisancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB09590D-5A07-4B88-9878-61D79725EE3A}|IKProjesi.API.csproj|d:\\ikprojesi\\ikprojesi.api\\data\\ikdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB09590D-5A07-4B88-9878-61D79725EE3A}|IKProjesi.API.csproj|solutionrelative:data\\ikdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB09590D-5A07-4B88-9878-61D79725EE3A}|IKProjesi.API.csproj|d:\\ikprojesi\\ikprojesi.api\\models\\pozisyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB09590D-5A07-4B88-9878-61D79725EE3A}|IKProjesi.API.csproj|solutionrelative:models\\pozisyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB09590D-5A07-4B88-9878-61D79725EE3A}|IKProjesi.API.csproj|d:\\ikprojesi\\ikprojesi.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AB09590D-5A07-4B88-9878-61D79725EE3A}|IKProjesi.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IKDbContext.cs",
+              "DocumentMoniker": "D:\\IKProjesi\\IKProjesi.API\\Data\\IKDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\IKDbContext.cs",
+              "ToolTip": "D:\\IKProjesi\\IKProjesi.API\\Data\\IKDbContext.cs",
+              "RelativeToolTip": "Data\\IKDbContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T06:34:40.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalisanSifre.cs",
+              "DocumentMoniker": "D:\\IKProjesi\\IKProjesi.API\\Models\\CalisanSifre.cs",
+              "RelativeDocumentMoniker": "Models\\CalisanSifre.cs",
+              "ToolTip": "D:\\IKProjesi\\IKProjesi.API\\Models\\CalisanSifre.cs",
+              "RelativeToolTip": "Models\\CalisanSifre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T06:34:19.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pozisyon.cs",
+              "DocumentMoniker": "D:\\IKProjesi\\IKProjesi.API\\Models\\Pozisyon.cs",
+              "RelativeDocumentMoniker": "Models\\Pozisyon.cs",
+              "ToolTip": "D:\\IKProjesi\\IKProjesi.API\\Models\\Pozisyon.cs",
+              "RelativeToolTip": "Models\\Pozisyon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T06:33:33.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\IKProjesi\\IKProjesi.API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\IKProjesi\\IKProjesi.API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-21T08:17:02.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IKProjesi\\IKProjesi.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\IKProjesi\\IKProjesi.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAwDsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T08:14:05.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calisan.cs",
+              "DocumentMoniker": "D:\\IKProjesi\\IKProjesi.API\\Models\\Calisan.cs",
+              "RelativeDocumentMoniker": "Models\\Calisan.cs",
+              "ToolTip": "D:\\IKProjesi\\IKProjesi.API\\Models\\Calisan.cs",
+              "RelativeToolTip": "Models\\Calisan.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T08:11:13.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalisanController.cs",
+              "DocumentMoniker": "D:\\IKProjesi\\IKProjesi.API\\Controllers\\CalisanController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CalisanController.cs",
+              "ToolTip": "D:\\IKProjesi\\IKProjesi.API\\Controllers\\CalisanController.cs",
+              "RelativeToolTip": "Controllers\\CalisanController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAuwE8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T08:08:34.309Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
